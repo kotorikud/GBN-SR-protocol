@@ -21,4 +21,8 @@ if __name__ == '__main__':
         elif a == 4:
             sr_receive()
         else:
+<<<<<<< HEAD
             print("master")
+=======
+            print("hot_fix")
+>>>>>>> hot_fix
