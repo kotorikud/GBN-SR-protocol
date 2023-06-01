@@ -21,4 +21,4 @@ if __name__ == '__main__':
         elif a == 4:
             sr_receive()
         else:
-            print("error")
+            print("你所热爱的")
